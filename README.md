@@ -1,7 +1,7 @@
 # FVShapes
 ## Repo for learn & teach Pharo
 Containes hierarhy of flat shapes such as Circle, Rectangle, Triangle
-and hierarhy of volume shapes: Cylinder, Cone, Piramid so on.
+and hierarhy of volume shapes: Cylinder, Cone, Piramid and so on.
 All objects can perform some calculations:
-* flats - area & perimeter
-* volumes - volume & areas
+* flat ones - area & perimeter
+* volume ones - volume & areas
